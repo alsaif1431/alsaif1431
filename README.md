@@ -45,7 +45,6 @@ Currently exploring frontier topics in NLP and LLMs with a strong focus on scala
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/saif-pasha-59643b197)
-- [GitHub](https://github.com/saifpasha)
 
 ---
 
